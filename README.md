@@ -11,6 +11,13 @@ Prerequisites
 
 Jupyter Notebook
 
+Dataset
+-------------
+
+We have included two files: `formattedSteamGames.csv` and `formattedSteamGames_reduced.csv`.\
+First one has 27K+ inserts, while the second one is smaller dataset which we generated in a way that it maintained same feature distribution using CFD statistical method.\
+Use the one which fits your purpose the best.
+
 How To Run This?
 ---------------
 1. Download/clone this project
