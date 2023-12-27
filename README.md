@@ -1,4 +1,4 @@
-Steam Game Recommender System (Content-Based KNN)
+Content-Based Steam Game Recommender System (KNN)
 ==============================
 
 What is this?
